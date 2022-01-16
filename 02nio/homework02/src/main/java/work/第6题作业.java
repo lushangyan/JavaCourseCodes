@@ -1,8 +1,5 @@
 package work;
 
-import utils.HttpClientWork;
-import utils.OkHttpWork;
-
 import java.io.IOException;
 
 public class 第6题作业 {
